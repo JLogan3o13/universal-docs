@@ -4,7 +4,7 @@ description: Date Picker component for Universal Dashboard
 
 # Date Picker
 
-Date pickers pickers provide a simple way to select a single value from a pre-determined set.
+Date pickers provide a simple way to select a single value from a pre-determined set.
 
 Date pickers can be used in [Forms](form.md) and [Steppers](../navigation/stepper.md).
 
